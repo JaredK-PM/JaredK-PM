@@ -12,7 +12,7 @@ Product & Technology executive who leads complex transformation in regulated len
 ## What I'm building now
 
 - **ApexPrime Products** - taking a physical consumer product from research and design through prototyping, sourcing, and launch planning
-- **[Redline](https://github.com/JaredK-PM/redline)** - reads an inbound contract before a small-business owner signs it and flags what to push back on, with each flag anchored to the source sentence
+- **[ReviewIt](https://github.com/JaredK-PM/redline)** - reads an inbound contract before a small-business owner signs it and flags what to push back on, with each flag anchored to the source sentence
 
 ## How I work
 
